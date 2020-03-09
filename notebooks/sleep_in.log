@@ -1,0 +1,8 @@
+def sleep_in(weekday, vacation):
+    if not weekday or vacation:
+        print("Hello")
+        return(true)
+    else:
+        return(false)
+#run test_codebat.sleep_in.py get output print results
+#!python -m test_codebat.sleep_in.py
