@@ -130,3 +130,10 @@ dmypy.json
 
 # OS
 .DS_Store
+
+# log folder
+/logs
+
+
+# checkpoint.ipynb files
+.ipynb_checkpoints/

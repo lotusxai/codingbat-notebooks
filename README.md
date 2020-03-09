@@ -1,6 +1,8 @@
 # dev setup
+
 ```
 git clone  https://github.com/lotusxai/codingbat-notebooks.git
-jupyter notebook codingbat-notebooks/notebooks/warmup-1.ipynb
+jupyter notebook codingbat-notebooks/notebooks/ &
 ```
-[content python](https://codingbat.com/python)
+
+Inspired by [codingbat python](https://codingbat.com/python)
